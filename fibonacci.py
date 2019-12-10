@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Author: mcamore (mmco94@live.com)
 # Usage: python fibonacci.py [numer_of_iterations]
 # Example: "python fibonnaci.py 5" returns "[0, 1, 1, 2, 3, 5]"
